@@ -10,7 +10,7 @@ This repository provides clean, production-ready Python code snippets and founda
 
 ## 📖 Medium Tutorial Series
 
-* Building an MT5 Trading Bot with Python (Part 1): Environment Setup — [Read on Medium] ((https://medium.com/@madstock36/8a78d5d317b) )
+* Building an MT5 Trading Bot with Python (Part 1): Environment Setup — [Read on Medium] (https://medium.com/@madstock36/8a78d5d317b3)
 * Building an MT5 Trading Bot with Python (Part 1.5): Python 3.12 Virtual Environment in VS Code — [Read on Medium] (https://medium.com/@madstock36/924942ec2210)
 * Building an MT5 Trading Bot with Python (Part2): Your First Bot — [Read on Medium] (https://medium.com/@madstock36/2a02a5bea3d0)
 
